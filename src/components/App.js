@@ -1,9 +1,7 @@
+import { SignIn } from './';
+
 function App() {
-  return (
-    <div className="App">
-      Namaste React
-    </div>
-  );
+  return <SignIn />;
 }
 
 export default App;
